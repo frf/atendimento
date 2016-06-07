@@ -6,7 +6,12 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
+        "laravel/framework": "5.2.*",
+        "bestmomo/scafold": "dev-master",
+        "laravelcollective/html": "5.2.*",
+        "barryvdh/laravel-cors": "^0.8.0",
+        "lucadegasperi/oauth2-server-laravel": "*",
+        "league/fractal": "^0.13.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
